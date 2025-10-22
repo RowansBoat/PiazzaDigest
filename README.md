@@ -1,3 +1,6 @@
+I basically gave up on this btw
+
+
 This project is currently in the works.
 The goal of this application is to take in piazza posts through a piazza api,
 pass that information through ai to summarize the useful information and give that
